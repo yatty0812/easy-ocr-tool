@@ -1,0 +1,15 @@
+HELP.md
+
+### Python venv ###
+.env/
+
+## Pictures Directory ###
+pictures/*
+
+## Result Directory ###
+result/*
+
+!.gitkeep
+
+### VS Code ###
+.vscode/
