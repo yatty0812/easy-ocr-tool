@@ -12,9 +12,6 @@ picturesフォルダ配下に読み込ませたい画像を配置ください。
 ### （参考）Pythonインストールの仕方  
 インストールの仕方は特に問いませんが、  
 Chocolateyを使ったインストールが楽ですのでおすすめです  
-  
-- Chocolateyインストール手順  
-https://e4-odessa.itechh.ne.jp/%E9%96%8B%E7%99%BA%E8%B3%87%E6%96%99/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89#Chocolatey%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB  
 
 - ChocolateyによるPythonインストール手順  
 https://qiita.com/ns_k/items/bedaa80f4a5129e4eef4  
